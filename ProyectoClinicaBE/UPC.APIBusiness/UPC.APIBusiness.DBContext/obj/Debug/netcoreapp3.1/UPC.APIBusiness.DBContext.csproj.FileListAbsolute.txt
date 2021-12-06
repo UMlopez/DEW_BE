@@ -1,0 +1,12 @@
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Users\bryan\Downloads\wetransfer_semana08be-zip_2021-12-05_2223\Semana08BE\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
